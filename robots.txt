@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--fhqrmw5tdjrekas39r.com/sitemap.xml
